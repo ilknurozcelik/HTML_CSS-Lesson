@@ -1,0 +1,45 @@
+.heading{
+    border-bottom: 5px solid red;
+}
+
+.heading_div{
+    min-width:100%;
+    height:130px;
+    background : navy;
+    color: white;
+    font-size: 40px;
+    font-family: Russo One;
+}
+
+#img{
+    min-width: 100%;
+    min-height: 100%;   
+}
+
+.image{
+    position: relative;
+}
+
+.image.text{
+    position: absolute;
+    border: 2px solid red;
+    opacity: 0.5;
+    top: 10px;
+    left: 10px;
+    width: 300px;
+    /* background-color: rgb(46, 45, 45); */
+
+}
+
+/* .div_background{
+    background-image: url(".\WS_portfoliopagephtoto.jpg"); */
+
+}
+/* .transbox{
+    background-color: #ffffff;
+    opacity: 0.6;
+    border: 2px solid red;
+    color: red;
+    font-family: Russo One;
+
+} */
